@@ -1,0 +1,9 @@
+name: norm
+root: ~/
+on_project_first_start: #
+windows:
+  - sys:
+  - norm \#1:
+  - norm \#2:
+  - docker:
+  - other:
